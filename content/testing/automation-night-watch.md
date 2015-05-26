@@ -4,7 +4,7 @@ Write End-to-End tests in Node.js quickly and effortlessly that run against a Se
 
 Set up of Nightwatchjs
 ---------------------------------------
-The Set up of Nighrwatchjs is easy. You can set up nightwatchjs with the help of below steps.
+The Set up of Nightwatchjs is easy. You can set up nightwatchjs with the help of below steps.
 
 ###Install Nightwatch
 
